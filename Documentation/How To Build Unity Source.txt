@@ -1,0 +1,46 @@
+Instructions on how to build and run this application from Unity's source files: 
+
+-> Install Unity version 4.3.4f1. 
+	-> Download Link: https://unity3d.com/unity/download
+	
+-> A Unity Pro license must be activated. 
+	-> This can be activated on the intital set up of Unity.
+	-> Otherwise when Unity loads. Click on Help. Then click on manage license. Then Update the liscene to Unity Pro.
+
+-> Before loading the application OculusPlugin.dll needs to be added to Unity's program files.
+	-> OculusPlugin.dll should be located in the main folder of cian.gardiner.fyp.zip.
+	-> Navigate to "C:\Program Files (x86)\Unity\Editor"
+	-> Add OculusPlugin.dll to this folder.
+	
+-> Connect Oculus Rift and Force Feedback Steering Wheel to the Desktop.
+	
+-> Open Unity and import the project files.
+	-> Inside Unity click on File.
+	-> Click on Open Project.
+	-> Navigate to cian.gardiner.fyp
+	-> Highlight this FinalYearProject.
+	-> Click select folder.
+	
+->Navigate to the MainMenu scene located in Resources/Scenes.
+
+->Double click on MainMenu.
+
+->Press the play button at the top of the Unity Editor.
+
+->Navigate through the application as you normally would with any application.
+
+
+Instructions on how to run the provided Unity executable:
+
+->Ensure an Oculus Rift and Force Feedback steering wheel are connected to your computer.
+
+->Navigate to "C:\Users\Cian\Desktop\cian.gardiner.fyp\FinalYearProjectUnityApplication"
+
+->Double click on "FinalYearProject.exe"
+
+->Set the screen resolution to the maximum
+->Set the graphics quality to fantastic
+
+->Press the play button
+
+->Navigate through the application as you normally would with any application.
